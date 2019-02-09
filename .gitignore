@@ -75,3 +75,11 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Project/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+Project/Saved/Config/Windows/Editor.ini
+Project/Intermediate/CachedAssetRegistry.bin
+Project/Saved/Config/Windows/Editor.ini
+Project/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+Project/Saved/Autosaves/PackageRestoreData.json
+Project/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+Project/Saved/Config/Windows/Engine.ini
