@@ -12,8 +12,12 @@
 *.lo
 *.o
 
+
+
 # Substance Painter files
 *.spp
+*.sps
+*.autosave
 
 # Precompiled Headers
 *.gch
