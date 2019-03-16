@@ -4,11 +4,16 @@
 # Visual Studio 2015 database file
 *.VC.db
 
+
+
+
 # Compiled Object files
 *.slo
 *.lo
 *.o
-*.obj
+
+# Substance Painter files
+*.spp
 
 # Precompiled Headers
 *.gch
